@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+cpp/CMakeCache.txt
+cpp/CMakeFiles
+cpp/*.cmake
+cpp/Makefile
+cpp/install_manifest.txt
+dist/
+include/
